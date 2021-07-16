@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Saroj Dahal",
+    "occupation": "Python(Django and ML)",
+    "description": "I am a Python and Web developer with the expertise in Django and Machine Learning. I also have knowledge of front-end technologies like Javascript and React. I have completed my Bachelor in Electronics Engineering.",
+    "image": "profilepicture.png",
+    "bio": "Hi! my name is Saroj Dahal. I am a Python and Web developer (2+ year experience) with the expertise in Django (for rest api), postgresSQL (for database) and Machine Learning. I also have knowledge of front-end technologies like Javascript and React. I also have knowledge of git and docker. Regarding my education, I have completed my Bachelors degree in Electronics Engineering.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "louisaroj69@gmail.com",
+    "phone": "+9779819332822",
+    "address": {
+      "street": "Lainchaur",
+      "city": "Kathmandu",
+      "state": "Pradesh no.3",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "CV.png",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/saroj.dahal.946",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Saroj74594698",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saroj-dahal-64a2b3162/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/awsmsarojdhl/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sarojdhl",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Thapathali Engineering Campus",
+        "degree": "Bachelor in Electronics and Communication Engineering",
+        "graduated": "Nov 2019",
+        "description": ""
+      },
+      {
+        "school": "Shikshadeep H.S. school",
+        "degree": "+2 Science",
+        "graduated": "April 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Cupponpro Inc.",
+        "title": "Python(Django) developer",
+        "years": "Dec 2020 - Present",
+        "description": "Write Rest APIs for Cupponpro product, Design database and fix bugs."
+      },
+      {
+        "company": "Fusemachines",
+        "title": "Machine Learning Associate Engineer",
+        "years": "Feb 2020 - Nov 2020",
+        "description": "Create Machine Learning product and write ML course for fuseAI platform"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "postgresSQL",
+        "level": "70%"
+      },
+      {
+        "name": "ML/DL",
+        "level": "70%"
+      },
+      {
+        "name": "Git/Docker",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cupponpro Product with Rest API",
+        "category": "Restaurant and Hotel management with Ordering/Billing, Reservation and Inventory",
+        "image": "vendor-dev.png",
+        "url": "https://vendor-dev.cupponpro.com"
+      },
+      {
+        "title": "Ecommerce",
+        "category": "Ecommerce site for ordering/buying product with stripe for payment",
+        "image": "ecommerce.png",
+        "url": "https://ecommerce-saroj-dahal.netlify.app/"
+      },
+      {
+        "title": "Fun Robo app",
+        "category": "Just a fun robo displaying app",
+        "image": "robo.png",
+        "url": "https://saroj-robo-app.netlify.app/"
+      },
+      {
+        "title": "Flask app for mnist data classification",
+        "category": "Flask app with ML",
+        "image": "flask.png",
+        "url": "https://github.com/sarojdhl/flask-app-mnist-digit-classifier"
+      },
+      {
+        "title": "Covid Tracker",
+        "category": "React with material-ui covid tracker with api",
+        "image": "covid.png",
+        "url": "https://covid19statswebsite.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He(Saroj) is very dilligent and hardworking. He is very attentive to detail and is very professional in his mindset.",
+        "user": "Anish, Fusemanchines"
+      },
+      {
+        "text": "Saroj is phenomenal developer with ability to grasp new concept and learn easily.",
+        "user": "Om Shrestha, Cupponpro"
+      }
+    ]
+  }
+}
